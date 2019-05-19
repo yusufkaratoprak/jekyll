@@ -9,7 +9,9 @@ script: "./build.sh"
 branches:
   only:
   - jekyll
-  notifications:
+rvm:
+- 2.3.1
+notifications:
   email:
     recipients:
     - yusufkaratoprak@gmail.com

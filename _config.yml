@@ -1,0 +1,1 @@
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock, .travis.yml, .pullapprove.yml, .ruby-version, .bundle, build.sh, vendor, Rakefile]
